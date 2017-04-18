@@ -34,7 +34,7 @@ RPG Minesweeper
 	f. Find the exit before your hp drops to 0 to win the game!
  
 
-4. What I have learned?
+4. What I have learned? (my failed experiments)
 
 	a. My first try: sphere map for Civilization; (why don't Civ 5&6 use sphere map)
 	
